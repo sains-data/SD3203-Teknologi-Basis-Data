@@ -1,4 +1,11 @@
-# SD3203 Tenologi Basis Data
+# SD3203 - Teknologi Basis Data
 
-# Tugas
+## Nama : Abdurrahman Al-atsary
+
+## NIM : 121450128
+
+## Kelas : RC
+
+# Tugas Kelas
+
 1. [Materialized views & Transactions](/tugas/materialized-views-transactions.md)
