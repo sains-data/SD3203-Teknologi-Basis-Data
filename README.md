@@ -6,6 +6,6 @@
 
 ## Kelas : RC
 
-# Tugas Kelas
+---
 
-1. [Materialized views & Transactions](/tugas/materialized-views-transactions.md)
+1. [Materialized views & Transactions](/Jawaban_Tugas_1/materialized-views-transactions.md)

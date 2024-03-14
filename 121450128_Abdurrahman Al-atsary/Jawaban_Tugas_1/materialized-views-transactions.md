@@ -34,11 +34,5 @@ Thank, Selamat mengerjakan :blush:
 Berikut merupaakn spesifikasi os yang saya gunakan:
 ![OS Spec](/121450128_Abdurrahman%20Al-atsary/asset/image.png)
 
-1. Saya menggunakan database MariaDB dengan bantuan dari XAMPP sebagai konektornya
-
-2.
-3.
-4.
-5.
-6.
-7.
+Berikut merupakan jawaban saya dari hasil tunning yang dilakukan didalam Database MariaDB
+[File Excel Laporan Tunning](/Tunning SQL/tugas/laporan.xlsx)
