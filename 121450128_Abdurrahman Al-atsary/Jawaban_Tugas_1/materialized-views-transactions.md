@@ -35,4 +35,4 @@ Berikut merupaakn spesifikasi os yang saya gunakan:
 ![OS Spec](/121450128_Abdurrahman%20Al-atsary/asset/image.png)
 
 Berikut merupakan jawaban saya dari hasil tunning yang dilakukan didalam Database MariaDB
-[File Excel Laporan Tunning](/121450128_Abdurrahman Al-atsary/Tunning SQL/tugas/laporan.xlsx)
+[File Excel Laporan Tunning](/121450128_Abdurrahman%20Al-atsary/Tunning%20SQL/tugas/laporan.xlsx)
