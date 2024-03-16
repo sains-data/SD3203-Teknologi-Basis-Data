@@ -4,3 +4,5 @@ __MACOSX
 # Folder Type
 ref/
 tunning/
+
+.vscode/

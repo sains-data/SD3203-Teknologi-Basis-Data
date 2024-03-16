@@ -224,10 +224,10 @@ public class tableGen {
         int course = 200;
         int instructor = 50;
         int teaches = 100;
-        int advisor = 100;
-        int student = 100;
-        int section = 200;
-        int takes = 200;
+        int advisor = 10000;
+        int student = 10000;
+        int section = 300000000;
+        int takes = 30000000;
         int prereq = 100;
         int timeSlot = 10;
         int i = 0, j = 0, r = 0, c = 0, x = 0, y = 0;
